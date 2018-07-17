@@ -1,4 +1,4 @@
-# Getting Started With Python for Beginners
+# Getting Started With Python to Write Your First Program! (Windows)
 
 ![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png "The Python Logo")
 
@@ -44,3 +44,20 @@ To create Python programs you must first download and install a code editor. Ato
 
 ![atom.io homepage](https://raw.githubusercontent.com/theapprenticewizard/python-intro/master/images/1.%20Get%20Atom.PNG)
 
+### 2. Install Atom
+Install the Atom code editor by simply double clicking the `.exe` file in your Downloads folder. When opened up it should look like this. 
+
+![installed atom text editor](https://raw.githubusercontent.com/theapprenticewizard/python-intro/master/images/2.%20Install%20Atom%20Code%20Editor.PNG)
+
+### 3. Create a Folder to Store Your Code
+In the home screen of Atom click open a project. In the open folder dialogue navigate to the `Documents` folder right click any directory and hove over `New` then click `Folder`.  Then type in a memorable name and press enter when completed. Finally once you are inside your new folder click `Select Folder` in the bottom right hand corner.
+
+![New Project Screen](https://raw.githubusercontent.com/theapprenticewizard/python-intro/master/images/4.%20Select%20Folder.PNG)
+
+### 4. Write Your First Python Code
+Left Click the folder in the top left corner and click `New File`.  In the new file dialogue enter `hello.py`.  Close all the code tabs at the top and enter this one line of code.  `print("Hello, World!")`. Your editor should look like this.
+
+![Editor]()
+
+### 5. Run the Code
+Go to the command prompt and type the 
