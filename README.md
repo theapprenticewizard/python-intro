@@ -2,7 +2,22 @@
 
 ![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png "The Python Logo")
 
-Python is a general purpose programming language for building anything you could imagine.  It's used in many places including but not limited to Block Chain programming, Machine Learning and Web Developement. And in my opinion, is the best programming language to get started programming with.
+- [Getting Started With Python (Windows)](#getting-started-with-python-windows)
+                - [Who should read this?](#who-should-read-this)
+                - [What's Needed](#whats-needed)
+    - [Installation](#installation)
+        - [1. Download Python](#1-download-python)
+        - [1. Add Python to PATH and Install](#1-add-python-to-path-and-install)
+        - [3. Open The Command Line](#3-open-the-command-line)
+        - [4. Confirm Installation](#4-confirm-installation)
+    - [Writing Python](#writing-python)
+        - [1. Acquiring a Code Editor](#1-acquiring-a-code-editor)
+        - [2. Install Atom](#2-install-atom)
+        - [3. Create a Folder to Store Code](#3-create-a-folder-to-store-code)
+        - [4. Write Python Code](#4-write-python-code)
+        - [5. Run the Code](#5-run-the-code)
+
+Python is a general purpose programming language for building anything imaginable.  It's used in many places including but not limited to Block Chain programming, Machine Learning and Web Developement. And in my opinion, is the best programming language to get started programming with.
 
 ##### Who should read this?
 People who are the target of this manual have a minumum set of computer skills and an eagerness to get started
@@ -57,7 +72,7 @@ In the home screen of Atom click open a project. In the open folder dialogue nav
 ### 4. Write Python Code
 Left Click the folder in the top left corner and click `New File`.  In the new file dialogue enter `hello.py`.  Close all the code tabs at the top and enter this one line of code.  `print("Hello, World!")`. The editor should look like this.
 
-![Editor]()
+![Editor](https://raw.githubusercontent.com/theapprenticewizard/python-intro/master/images/4.%20Code%20Capture.PNG)
 
 ### 5. Run the Code
 Go to the command prompt and type the command `cd Documents` from there you will type the `cd` command again but this time type in the name of the folder created before.  Use quotes around the folder name if the folder has spaces. E.g. `cd "My First Program"`. Finally, type py `hello.py` to run the code created earlier. The results should look like this.
