@@ -23,4 +23,7 @@ Go to the python website located [here](https://www.python.org/getit/) and click
 Open the downloaded file and in the first window click the checkbox that says "Add Python 3.7 to PATH".  Once you have clicked the checkbox click "Install Now" leaving the directory default. Once you see that setup is succesull you may click the exit button at the bottom right corner.
 ![Add to Path Button](https://raw.githubusercontent.com/theapprenticewizard/python-intro/master/images/2.%20Add%20Python%20to%20Path.PNG)
 
-**3. Check your installation**
+**3. Open The Command Line**
+Press ![windows key](https://i.stack.imgur.com/MB2Nl.jpg) + r to open the the run prompt then type cmd and press enter.
+
+![Command Promt](https://raw.githubusercontent.com/theapprenticewizard/python-intro/master/images/3.%20Run%20Prompt.PNG_)
