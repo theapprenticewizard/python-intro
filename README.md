@@ -40,4 +40,7 @@ In the terminal, enter the command `py --version`.  If the response looks like t
 ## Writing Your First Python Program
 
 ### 1. Acquiring a Code Editor
-To create Python programs you must first download and install a code editor. Atom is one of such code editors and you can find it [here](http://atom.io)
+To create Python programs you must first download and install a code editor. Atom is one of such code editors and you can find it [here](http://atom.io).   When you arrive at the homepage click the download button.
+
+![atom.io homepage](https://raw.githubusercontent.com/theapprenticewizard/python-intro/master/images/1.%20Get%20Atom.PNG)
+
